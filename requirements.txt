@@ -1,5 +1,7 @@
-Streamlit
-PyTorch
-Torchvision
-PIL
-Requests
+streamlit
+pyTorch
+torchvision
+pillow
+requests
+pandas
+torch
