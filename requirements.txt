@@ -1,7 +1,6 @@
 streamlit
-pyTorch
+torch
 torchvision
 pillow
 requests
 pandas
-torch
